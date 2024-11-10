@@ -1,4 +1,4 @@
-![screencapture-localhost-5173-2024-11-05-17_01_56](https://github.com/user-attachments/assets/d16a595e-5570-435c-ab0f-2d723cc81c47)
+
 
 # React + Vite
 
